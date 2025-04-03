@@ -1,0 +1,160 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "53f9781a-0055-468c-aab3-eda13e0cd737")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 109.22 77.47)
+		(size 33.02 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7e50be4c-2259-4785-9cce-095391e4e8b5")
+		(property "Sheetname" "FPGA LPC FMC Connector"
+			(at 109.22 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA_LPC_FMC_Connector.kicad_sch"
+			(at 109.22 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "External SRAM Project"
+				(path "/98aa7393-91e4-45c0-97a7-dfc1105523b1/351dc0ff-0a19-4393-b634-c5528029a584"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 111.76)
+		(size 33.02 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b5a707e5-af1f-40bb-852f-884af4d5e7de")
+		(property "Sheetname" "Peripherals"
+			(at 63.5 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Peripherals.kicad_sch"
+			(at 63.5 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "External SRAM Project"
+				(path "/98aa7393-91e4-45c0-97a7-dfc1105523b1/351dc0ff-0a19-4393-b634-c5528029a584"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 109.22 111.76)
+		(size 33.02 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c433db01-d6b3-4522-af8e-88de46075d30")
+		(property "Sheetname" "Power Supply"
+			(at 109.22 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_Supply.kicad_sch"
+			(at 109.22 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "External SRAM Project"
+				(path "/98aa7393-91e4-45c0-97a7-dfc1105523b1/351dc0ff-0a19-4393-b634-c5528029a584"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 77.47)
+		(size 33.02 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ec3458cf-6cf8-4a6f-afff-f3f43a3113d3")
+		(property "Sheetname" "AFTx07"
+			(at 63.5 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AFTx07.kicad_sch"
+			(at 63.5 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "External SRAM Project"
+				(path "/98aa7393-91e4-45c0-97a7-dfc1105523b1/351dc0ff-0a19-4393-b634-c5528029a584"
+					(page "3")
+				)
+			)
+		)
+	)
+)
